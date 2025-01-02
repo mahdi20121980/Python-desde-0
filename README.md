@@ -1,3 +1,5 @@
+![Imagen de portada](images/Python_desde_cero.png)
+
 # Python-desde-0
 
 ## 🔎 Introducción
