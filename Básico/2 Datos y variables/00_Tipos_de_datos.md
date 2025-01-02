@@ -1,4 +1,4 @@
-![Imagen de portada](images/Python_desde_cero.png)
+![Imagen de portada](/images/Python_desde_cero.png)
 
 ## Tipos de Datos y Variables en Python
 
