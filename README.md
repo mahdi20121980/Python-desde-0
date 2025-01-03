@@ -26,24 +26,28 @@ El repositorio está organizado por módulos para facilitar el aprendizaje:
    - Declaración de variables y convenciones de nombres.
    - Ejercicios prácticos.
 
-3. **Estructuras de control**
-   - Condicionales: `if`, `else`, `elif`.
-   - Bucles: `for`, `while`.
-   - Prácticas de estructuras de control.
+3. **Operadores**
+   - ¿Qué son los operadores?.
+   - Tipos de operadores
+   - Prácticas de operadores
 
-4. **Funciones**
-   - Definición y uso de funciones.
-   - Parámetros y valores de retorno.
+4. **Listas, tuplas, sets y diccionarios**
+   - ¿Qué son las listas, tuplas, sets y diccionarios en Python?
+   - Utilización de listas, tuplas, sets y diccionarios.
    - Ejercicios resueltos y propuestos.
 
-5. **Listas, tuplas y diccionarios**
-   - Estructuras de datos esenciales.
-   - Operaciones comunes y buenas prácticas.
-   - Ejercicios prácticos para dominar estas estructuras.
-
-6. **Manejo de errores**
-   - Excepciones y el uso de `try`, `except`.
+5. **Estructuras de control**
+   - ¿Qué son los condicionales y bucles?
    - Ejercicios para identificar y corregir errores.
+
+6. **POO**
+   - ¿Qué es la programación orientada a objetos (POO)?
+   - ¿Qué son y para qué sirven las clases?
+   - Ejercicios prácticos.
+
+7. **Manejo de errores**
+   - Definición de las excepciones ```try``` y ```except```
+   - Ejercicios para utilizar las excepciones.
 
 7. **Módulos y librerías**
    - Uso de módulos incorporados y cómo instalar librerías externas.
@@ -77,8 +81,13 @@ Para aprovechar al máximo este repositorio, necesitas:
 - [Documentación oficial de Python](https://docs.python.org/3/)
 - [Tutorial de Python en W3Schools](https://www.w3schools.com/python/)
 - [Curso de Python desde 0](https://www.youtube.com/watch?v=Kp4Mvapo5kc)
-
----
+- [Retos de programación](https://retosdeprogramacion.com/)
+- ### Comunidades de programación:
+      - MoureDev
+      - Python en Español
+      - Hola Mundo
+   NOTA: Estos canales están en Discord. Si no sabes que es Discord mira este vídeo: 
+   (https://www.youtube.com/watch?v=pvqxxjz9-VM&t=27s)
 
 ## 💪 Autores
 Este proyecto fue desarrollado con dedicación por:
