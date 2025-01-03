@@ -82,12 +82,13 @@ Para aprovechar al máximo este repositorio, necesitas:
 - [Tutorial de Python en W3Schools](https://www.w3schools.com/python/)
 - [Curso de Python desde 0](https://www.youtube.com/watch?v=Kp4Mvapo5kc)
 - [Retos de programación](https://retosdeprogramacion.com/)
-- ### Comunidades de programación:
-      - MoureDev
-      - Python en Español
-      - Hola Mundo
-   NOTA: Estos canales están en Discord. Si no sabes que es Discord mira este vídeo: 
-   (https://www.youtube.com/watch?v=pvqxxjz9-VM&t=27s)
+
+## Comunidades de programación:
+   - MoureDev
+   - Python en Español
+   - Hola Mundo
+   
+   NOTA: Estos canales están en Discord. Si no sabes que es Discord mira este vídeo: (https://www.youtube.com/watch?v=pvqxxjz9-VM&t=27s)
 
 ## 💪 Autores
 Este proyecto fue desarrollado con dedicación por:
